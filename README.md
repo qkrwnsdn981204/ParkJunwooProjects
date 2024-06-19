@@ -22,27 +22,29 @@
 
 #### **● 프로젝트 명** : E 1 I 4
 
-#### **● 프로젝트 설명** : 강의 쇼핑몰 사이트
+#### **● 프로젝트 설명** : One Day Class 강의 쇼핑몰 사이트
 
-- 미리 보기
+#### **● 역할** : 팀장
+
+- **Preview**<br>
     - 회원가입
       <br>
-      ![signUp](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ec914912-02ef-46b5-a95a-34717fda28c0)
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ec914912-02ef-46b5-a95a-34717fda28c0" width="600" height="300"/>
       <br>
       <br>
     - 일반 회원 로그인
       <br>
-      ![logIn](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ede553f8-313a-436a-91f3-0a7092aaa178)
+     <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ede553f8-313a-436a-91f3-0a7092aaa178" width="600" height="300"/>
       <br>
       <br>
     - Oauth2 로그인
       <br>
-      ![Oauth2](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/9775dc1f-affa-4a8e-9e86-fb94ac071a78)
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/9775dc1f-affa-4a8e-9e86-fb94ac071a78" width="600" height="300"/>
       <br>
       <br>
     - 수정, 삭제
       <br>
-      ![CRUD](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/12eb2306-88d7-4a64-9136-d9ee0420a78f)
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/12eb2306-88d7-4a64-9136-d9ee0420a78f" width="600" height="300"/>
 
 <details>
 
@@ -121,15 +123,30 @@
 
 </details>
 
+<details>
+
+<summary>팀원 역할</summary>
+
+   > 박준우 (팀장) : DB설계, 회원 CRUD, Oauth2, Security, CI/CD
+
+   > 손** (팀원) : 관리자페이지, Chatbot, 강사소개 페이지, 메뉴바, INDEX 애니메이션 기능
+
+   > 심** (팀원) : 게시판 CRUD, Naver API
+
+   > 이** (팀원) : 상품 CRUD, Cart 담당
+
+   > 조** (팀원) : INDEX 페이지, 1:1 문의내역, Naver API
+
+</details>
 
 
-**[⬆ 목차](#목차)**
+**[⬆ 위로 가기](#목차)**
 
 ### 그룹웨어 기본 연동 기능 및 메시지 봇 구현
 
-**[⬆ 목차](#목차)**
+**[⬆ 위로 가기](#목차)**
 
 ### 시나리오형 챗봇 웹 개발
 
-**[⬆ 목차](#목차)**
+**[⬆ 위로 가기](#목차)**
 
