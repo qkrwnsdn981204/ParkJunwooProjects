@@ -24,27 +24,29 @@
 
 #### **● 프로젝트 설명** : One Day Class 강의 쇼핑몰 사이트
 
+#### **● 프로젝트 파일명** : Project1TeamE1I4, ProjectCICD
+
 #### **● 역할** : 팀장
 
 - **Preview**<br>
     - 회원가입
       <br>
-      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ec914912-02ef-46b5-a95a-34717fda28c0" width="600" height="300"/>
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ec914912-02ef-46b5-a95a-34717fda28c0" width="100%" height="auto"/>
       <br>
       <br>
     - 일반 회원 로그인
       <br>
-     <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ede553f8-313a-436a-91f3-0a7092aaa178" width="600" height="300"/>
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ede553f8-313a-436a-91f3-0a7092aaa178" width="100%" height="auto"/>
       <br>
       <br>
     - Oauth2 로그인
       <br>
-      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/9775dc1f-affa-4a8e-9e86-fb94ac071a78" width="600" height="300"/>
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/9775dc1f-affa-4a8e-9e86-fb94ac071a78" width="100%" height="auto"/>
       <br>
       <br>
     - 수정, 삭제
       <br>
-      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/12eb2306-88d7-4a64-9136-d9ee0420a78f" width="600" height="300"/>
+      <img src="https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/12eb2306-88d7-4a64-9136-d9ee0420a78f" width="100%" height="auto"/>
 
 <details>
 
