@@ -24,16 +24,25 @@
 
 #### **● 프로젝트 설명** : 강의 쇼핑몰 사이트
 
-
 - 미리 보기
-  - 회원가입
-    ![signUp](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ec914912-02ef-46b5-a95a-34717fda28c0)
-  - 일반 회원 로그인
-  ![logIn](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ede553f8-313a-436a-91f3-0a7092aaa178)
-  - Oauth2 로그인
-    ![Oauth2](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/9775dc1f-affa-4a8e-9e86-fb94ac071a78)
-  - 수정, 삭제
-    ![CRUD](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/12eb2306-88d7-4a64-9136-d9ee0420a78f)
+    - 회원가입
+      <br>
+      ![signUp](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ec914912-02ef-46b5-a95a-34717fda28c0)
+      <br>
+      <br>
+    - 일반 회원 로그인
+      <br>
+      ![logIn](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/ede553f8-313a-436a-91f3-0a7092aaa178)
+      <br>
+      <br>
+    - Oauth2 로그인
+      <br>
+      ![Oauth2](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/9775dc1f-affa-4a8e-9e86-fb94ac071a78)
+      <br>
+      <br>
+    - 수정, 삭제
+      <br>
+      ![CRUD](https://github.com/qkrwnsdn981204/ParkJunwooProjects/assets/154858222/12eb2306-88d7-4a64-9136-d9ee0420a78f)
 
 <details>
 
@@ -76,7 +85,7 @@
 - DB 설계
 
   | **No** | **주요 Entity** | **상세 Entity**                                           |
-    |--------|---------------|---------------------------------------------------------|
+      |--------|---------------|---------------------------------------------------------|
   | 1      | member        | member, memberFile                                      |
   | 2      | shop          | shop, cart, cartShopList, shopFile, shopReply, shopLike |
   | 3      | board         | board, boardReply, boardFile                            |
@@ -85,7 +94,7 @@
 - 회원 CRUD
 
   | **No** | **기능** | **설명**                                                                     |
-   |----|---------|----------------------------------------------------------------------------|
+     |----|---------|----------------------------------------------------------------------------|
   | 1  | 회원가입    | 강사와 수강생으로 나누어 회원가입 <br> 비밀번호 확인 기능 <br> 전화번호 자동 하이픈(-) <br> 프로필 사진 추가 <br> |
   | 2  | 회원정보 조회 | 회원 개인 정보 조회 <br/> 간이 장바구니 기능                                               |
   | 3  | 회원수정    | 프로필사진, 개인정보, 비밀번호 수정                                                       |
@@ -94,21 +103,21 @@
 
 - 로그인
 
-  | **No** | **기능** | **설명**                                                           |
-       |----|------------|------------------------------------------------------------------|
-  | 1  | 일반 회원 로그인  | Security를 통해 회원가입한 아이디로  로그인                                     |
-  | 2  | Oauth2 로그인 | Oauth2를 이용하여 google, kakao, naver 아이디로 로그인<br/> 로그인시 아이디가 없으면 자동 회원가입 |
+  | **No** | **기능**     | **설명**                                                                |
+         |--------|------------|-----------------------------------------------------------------------|
+  | 1      | 일반 회원 로그인  | Security를 통해 회원가입한 아이디로  로그인                                          |
+  | 2      | Oauth2 로그인 | Oauth2를 이용하여 google, kakao, naver 아이디로 로그인<br/> 로그인시 아이디가 없으면 자동 회원가입 |
 
 - CI/CD
 
-  | **No** | **설명**                                |
-       |--------|---------------------------------------|
-  | 1      | 배포할 파일 github push                    |
-  | 2      | git actions 실행                        |
-  | 3      | 빌드한 프로젝트 압축                           |
-  | 4      | 압축된 파일 S3 복사                          |
+  | **No** | **설명**                            |
+         |--------|-----------------------------------|
+  | 1      | 배포할 파일 github push                |
+  | 2      | git actions 실행                    |
+  | 3      | 빌드한 프로젝트 압축                       |
+  | 4      | 압축된 파일 S3 복사                      |
   | 5      | S3에 있는 파일을 CodeDeploy 를 통해 EC2 배포 |
-  | 6      | EC2에서 jar 파일 실행                       |
+  | 6      | EC2에서 jar 파일 실행                   |
 
 </details>
 
