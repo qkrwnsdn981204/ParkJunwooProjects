@@ -88,11 +88,11 @@
 
 - DB 설계
 
-  | **No** | **주요 Entity** | **상세 Entity**                                           |
-      |--------|---------------|---------------------------------------------------------|
-  | 1      | member        | member, memberFile                                      |
-  | 2      | shop          | shop, cart, cartShopList, shopFile, shopReply, shopLike |
-  | 3      | board         | board, boardReply, boardFile                            |
+  | **No** | **주요 Entity** | **상세 Entity**                                                 |
+      |--------|---------------|---------------------------------------------------------------|
+  | 1      | member        | member, memberFile                                            |
+  | 2      | shop          | shop, cart, cartShopList <br/>, shopFile, shopReply, shopLike |
+  | 3      | board         | board, boardReply, boardFile                                  |
 
 
 - 회원 CRUD
